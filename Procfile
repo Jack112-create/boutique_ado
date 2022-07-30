@@ -1,1 +1,1 @@
-web: gunicorn jack-boutiqueado.wsgi:application
+web: gunicorn boutique_ado.wsgi:application
